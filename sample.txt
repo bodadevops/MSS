@@ -16,3 +16,5 @@ ev wvW
 W'wWmew
 
 upted Mater saple file to branch Dashboard file
+
+setup done for pssword autimation
